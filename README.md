@@ -30,7 +30,7 @@ The project helps identify patterns and correlations that may influence the onse
 ## 📷 Dashboard Preview  
 
 ### Page 1 – Patient Demographics & Lifestyle  
-![Dashboard Screenshot 1](dashboard1.png)  
+![Dashboard Screenshot 1](https://github.com/KrishnaRajoo/diabities_patient_analysis_powerbi.io/blob/main/Screenshot%202025-09-02%20192239.png)  
 
 ### Page 2 – Clinical Measurements & Risk Factors  
 ![Dashboard Screenshot 2](dashboard2.png)  
